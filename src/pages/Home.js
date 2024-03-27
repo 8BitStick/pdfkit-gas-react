@@ -2,7 +2,7 @@ import { Box, Container } from "@mui/material";
 import React, { useContext } from "react";
 import Loading from "../components/Loading";
 import NavBar from "../components/NavBar";
-import PdfGenerator from "../components/pdfGenerate";
+import PdfGenerator from "../components/PdfGenerator";
 import { GlobalContext } from "../context/GlobalState";
 
 const Home = () => {
