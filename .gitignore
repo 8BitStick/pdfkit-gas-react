@@ -1,6 +1,6 @@
 .DS_Store
 src/.DS_Store
-./.parcel.cache/
+.parcel.cache/
 .vscode/
 .clasp.json
 node_modules
